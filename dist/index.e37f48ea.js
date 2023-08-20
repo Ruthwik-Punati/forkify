@@ -1124,6 +1124,6 @@ class Bookmarks extends (0, _viewJsDefault.default) {
 }
 exports.default = new Bookmarks();
 
-},{"./view.js":"bWlJ9","../../img/icons.svg":"cMpiy","../model.js":"Y4A21","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}]},["d8XZh","aenu9"], "aenu9", "parcelRequire7e89")
+},{"./view.js":"bWlJ9","../../img/icons.svg":"cMpiy","../model.js":"Y4A21","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}]},["d8XZh","aenu9"], "aenu9", "parcelRequire3a11")
 
 //# sourceMappingURL=index.e37f48ea.js.map
