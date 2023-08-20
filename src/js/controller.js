@@ -102,11 +102,4 @@ const newFeature = function () {
   console.log('Welcome to the application!');
 };
 
-console.log('task1');
-
-console.log('task');
-
-let task = 'task';
-let task1 = 'nottask1';
-
-let x = 1;
+console.log('new-feature');
