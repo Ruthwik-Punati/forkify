@@ -102,7 +102,6 @@ const newFeature = function () {
   console.log('Welcome to the application!');
 };
 
-console.log('new-feature');
+console.log('task1');
 
-let task1 = 'task';
 console.log('task');
