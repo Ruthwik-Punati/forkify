@@ -96,3 +96,5 @@ const handlerServings = function () {
   console.log('ok');
   showRecipeView.render(model.state.recipe);
 };
+
+console.log('Welcome');
