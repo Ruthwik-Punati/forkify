@@ -108,3 +108,5 @@ console.log('task');
 
 let task = 'task';
 let task1 = 'nottask1';
+
+let x = 1;
