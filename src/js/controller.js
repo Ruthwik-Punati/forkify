@@ -87,6 +87,7 @@ const init = function () {
   paginationView.addHandlerPagination(model.state.page, handlerPagination);
 
   bookmarksView.addHandlerBookmarks(handlerBookmarks);
+  newFeature()
 };
 init();
 
@@ -97,4 +98,10 @@ const handlerServings = function () {
   showRecipeView.render(model.state.recipe);
 };
 
-console.log('Welcome');
+
+
+
+const newFeature(){
+  console.log("Welcome to the application!")
+}
+
