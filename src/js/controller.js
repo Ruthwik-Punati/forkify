@@ -101,3 +101,5 @@ const handlerServings = function () {
 const newFeature = function () {
   console.log('Welcome to the application!');
 };
+
+console.log('new-feature');
