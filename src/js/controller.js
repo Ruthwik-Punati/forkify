@@ -103,3 +103,5 @@ const newFeature = function () {
 };
 
 console.log('new-feature');
+
+let task1 = 'task';
