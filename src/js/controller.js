@@ -105,3 +105,6 @@ const newFeature = function () {
 console.log('task1');
 
 console.log('task');
+
+let task = 'task';
+let task1 = 'nottask1';
