@@ -102,4 +102,6 @@ const newFeature = function () {
   console.log('Welcome to the application!');
 };
 
+console.log('task1');
+
 console.log('task');
