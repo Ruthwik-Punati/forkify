@@ -1,4 +1,4 @@
-8801
+8802
 102C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\core-js\stable\string\virtual\pad-end.js133228889026524299 0
 104C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\core-js\actual\string\virtual\trim-left.js133228889040562056 0
 92C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\lmdb\dependencies\lmdb-data-v1133228888585159339 1
@@ -31,7 +31,7 @@
 87C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\terser\dist\bundle.min.js133228888592975991 0
 94C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\lmdb\dependencies\lmdb\libraries133228888586998888 1
 88C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\@parcel\core\lib\worker.js133228888598998753 0
-59C:\Users\rupun\OneDrive\Desktop\forkify practice\.gitignore133369928068600776 0
+59C:\Users\rupun\OneDrive\Desktop\forkify practice\.gitignore133369932228295779 0
 82C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\msgpackr-extract\src133228888585871256 1
 84C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\nth-check\lib\parse.js133228888588911995 0
 90C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\core-js\actual\math\hypot.js133228889014677245 0
@@ -118,6 +118,9 @@
 98C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\core-js\features\object\is-frozen.js133228889019502521 0
 87C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\csso\lib\replace\color.js133228888591196483 0
 66C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\.bin133228890215448716 1
+58C:\Users\rupun\OneDrive\Desktop\forkify practice\README.md133369936644609301 0
+88C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\lodash-es\_baseAssignIn.js133228887897340087 0
+96C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\core-js\es\instance\starts-with.js133228889034371092 0
 108C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\@parcel\fs-search\fs-search.linux-x64-gnu.node133228888593826211 0
 137C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\package.json133228888588430576 0
 99C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\terser\node_modules\commander\typings133228888588646603 1
@@ -258,13 +261,6 @@
 70C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\anymatch133228890214116634 1
 75C:\Users\rupun\OneDrive\Desktop\forkify practice\src\js\views\showRecipe.js133229965765855813 0
 107C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\caniuse-lite\data\features\background-sync.js133228888595487053 0
-102C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\type-fest\source\conditional-except.d.ts133228888589760285 0
-87C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\msgpackr\dist\test.js.map133228888594732496 0
-67C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\chalk133228888588931884 1
-100C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\core-js\stable\instance\copy-within.js133228888995058217 0
-106C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\core-js\stable\string\virtual\replace-all.js133228889029718264 0
-81C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\msgpackr\index.d.ts133228888595382888 0
-86C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\msgpackr-extract\LICENSE133228888585066470 0
 69C:\Users\rupun\OneDrive\Desktop\forkify practice\src\js\views\view.js133229386793669332 0
 83C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\yaml\browser\index.js133228888589487820 0
 68C:\Users\rupun\OneDrive\Desktop\forkify practice\src\img\favicon.png133228884777827762 0
@@ -357,6 +353,13 @@
 74C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\caniuse-lite133228888611497793 1
 93C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\caniuse-lite\data\regions\GI.js133228888602828119 0
 89C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\lodash-es\intersectionBy.js133228887901844942 0
+102C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\type-fest\source\conditional-except.d.ts133228888589760285 0
+87C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\msgpackr\dist\test.js.map133228888594732496 0
+67C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\chalk133228888588931884 1
+100C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\core-js\stable\instance\copy-within.js133228888995058217 0
+106C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\core-js\stable\string\virtual\replace-all.js133228889029718264 0
+81C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\msgpackr\index.d.ts133228888595382888 0
+86C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\msgpackr-extract\LICENSE133228888585066470 0
 95C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\mdn-data\css\syntaxes.schema.json133228888592451958 0
 108C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\caniuse-lite\data\features\array-find-index.js133228888593106136 0
 87C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\core-js\internals\task.js133228889036257141 0
@@ -3272,8 +3275,6 @@
 87C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\lodash-es\_assignValue.js133228887897299961 0
 108C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\caniuse-lite\data\features\intl-pluralrules.js133228888604047849 0
 103C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\core-js\full\string\virtual\trim-start.js133228889041175080 0
-88C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\lodash-es\_baseAssignIn.js133228887897340087 0
-96C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\core-js\es\instance\starts-with.js133228889034371092 0
 91C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\lodash-es\_baseAssignValue.js133228887897361155 0
 90C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\core-js\full\string\blink.js133228888991770473 0
 104C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\core-js\internals\function-uncurry-this.js133228889012381793 0
@@ -4483,9 +4484,9 @@
 74C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\chalk\source133228888587421124 1
 103C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\css-tree\lib\syntax\node\AtrulePrelude.js133228888588657237 0
 107C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\css-tree\lib\syntax\node\AttributeSelector.js133228888589723634 0
-100C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\css-tree\lib\syntax\node\Combinator.js133228888591482893 0
 89C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\@parcel\bundler-default\src133228888587350296 1
 94C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\core-js\full\string\ends-with.js133228888997457711 0
+100C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\css-tree\lib\syntax\node\Combinator.js133228888591482893 0
 109C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\@parcel\transformer-sass\lib\SassTransformer.js133228890213926390 0
 97C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\css-tree\lib\syntax\node\Comment.js133228888591622692 0
 95C:\Users\rupun\OneDrive\Desktop\forkify practice\node_modules\css-tree\lib\syntax\node\index.js133228888596143601 0
