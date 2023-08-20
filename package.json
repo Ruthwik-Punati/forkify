@@ -5,8 +5,10 @@
     "lodash-es": "^4.17.21",
     "parcel": "^2.8.3"
   },
-  "name": "starter",
+  "name": "forkify",
   "version": "1.0.0",
+  "description": "Recipe application",
+  "default": "index.html",
   "devDependencies": {
     "buffer": "^5.7.1",
     "process": "^0.11.10",
@@ -17,6 +19,5 @@
     "build": "parcel build index.html"
   },
   "author": "",
-  "license": "ISC",
-  "description": ""
+  "license": "ISC"
 }
