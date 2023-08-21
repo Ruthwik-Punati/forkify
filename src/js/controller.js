@@ -105,6 +105,9 @@ const newFeature = function () {
 console.log('new-feature-1');
 console.log('new-task-1');
 
+let z = 4;
+console.log(z);
+
 let x = 1;
 console.log(x);
 let y = 7;
