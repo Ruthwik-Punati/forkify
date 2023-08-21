@@ -102,4 +102,4 @@ const newFeature = function () {
   console.log('Welcome to the application!');
 };
 
-console.log('new-feature');
+console.log('new-feature-1');
