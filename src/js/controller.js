@@ -103,3 +103,6 @@ const newFeature = function () {
 };
 
 console.log('new-feature');
+
+let z=4;
+console.log(z)
