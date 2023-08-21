@@ -107,5 +107,5 @@ console.log('new-task-1');
 
 let x = 1;
 console.log(x);
-let y = 6;
+let y = 7;
 console.log(y);
